@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "title": "Hamlet",
+        "quote": "Doubt thou the stars are fire. Doubt that the sun doth move. Doubt truth to be a liar. But never doubt I love."
+    },
+    {
+        "id":2,
+        "title": "Angel",
+        "quote": "...non devi mai sentirti in colpa per la tua felicità, non ti devi mai vergognare di stare bene, non devi mai chiedere scusa per una scelta che hai fatto con il cuore."
+    },
+    {
+        "id":3,
+        "title": "And Then There Were None",
+        "quote": "The amount of missing girls I've had to trace and their family and their friends always say the same thing. 'She was a bright and affectionate disposition and had no men friends'. That's never true. It's unnatural. Girls ought to have men friends. If not, then there's something wrong about them..."
+    },
+    {
+        "id":4,
+        "title": "Menace",
+        "quote": "I've seen love bring a monster back to life before, but most of the time, the monster just loves you to death."
+    },
+    {
+        "id":5,
+        "title": "Illuminae",
+        "quote": "The universe owes you nothing...It has already given you everything, after all. It was here long before you, and it will go on long after you. The only way it will remember you is if you do something worthy of remembrance."
+    },
+    {
+        "id":6,
+        "title": "The Name of the Wind ",
+        "quote": "It's like everyone tells a story about themselves inside their own head. Always. All the time. That story makes you what you are. We build ourselves out of that story."
+    }
+  ]
+  
